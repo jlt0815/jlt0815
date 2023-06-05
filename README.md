@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jlt0815
+- 👋 Hi, I’m Jess
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning data analytics 
 - 💞️ I’m looking to collaborate on everything
